@@ -1,0 +1,22 @@
+{
+  "name": "amal-chelbi",
+  "version": "1.0.0",
+  "description": "I am a web developer focusing on Front-end for PWA.",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/A-chelbi/A-chelbi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/A-chelbi/A-chelbi/issues"
+  },
+  "homepage": "https://github.com/A-chelbi/A-chelbi#readme",
+  "devDependencies": {
+    "eslint": "^7.30.0"
+  }
+}
