@@ -2,7 +2,7 @@
 
 I am a web developer focusing on Front-end for PWA with a strong will to learn and research new technologies.
 
-- 🔭 I’m currently working with NextJs at [ZoomDigital](https://zoomdigital.ch/).
+🔭 I’m currently working with NextJs at [ZoomDigital](https://zoomdigital.ch/) since June 2022.
 
 ### Get in touch
 
