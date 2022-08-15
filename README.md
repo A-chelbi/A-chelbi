@@ -25,4 +25,13 @@ I am a web developer focusing on Front-end for PWA with a strong will to learn a
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
-Last update on Thu Aug 12 2022
+### My stats
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=A-chelbi&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=A-chelbi&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+
+---
+
+<p align="center">This <i>README</i> file is generated <b>by Gabot ❤️</b>!</br>Last update on Thu Aug 12 2022<br /></p>
+
+![Create your own here!](https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91)
