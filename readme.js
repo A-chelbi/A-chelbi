@@ -21,6 +21,10 @@ I am a web developer focusing on Front-end for PWA with a strong will to learn a
 
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
+#### Database
+
+![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
 #### Others
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
@@ -29,10 +33,4 @@ I am a web developer focusing on Front-end for PWA with a strong will to learn a
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=A-chelbi&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=A-chelbi&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-
----
-
-<p align="center">This <i>README</i> file is generated <b>by Gabot ❤️</b>!</br>Last update on <#today_date><br /></p>
-
-<p align="center"> <a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a> </p>
 `;
