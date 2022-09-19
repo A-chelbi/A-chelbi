@@ -31,11 +31,10 @@ I am a web developer focusing on Front-end for PWA with a strong will to learn a
 
 ### My stats
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=A-chelbi&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=A-chelbi&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=A-chelbi&langs_count=7&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 ---
 
-<p align="center">This <i>README</i> file is generated <b>by Gabot ❤️</b>!</br>Last update on Thu Sep 15 2022<br /></p>
+<p align="center">This <i>README</i> file is generated <b>by Gabot ❤️</b>!</br>Last update on Mon Sep 19 2022<br /></p>
 
 <p align="center"> <a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a> </p>
