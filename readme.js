@@ -29,12 +29,6 @@ I am a web developer focusing on Front-end for PWA with a strong will to learn a
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![ReduxToolkit](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 
-#### My Stats
-
-![A-chelbi's Stats](https://github-readme-stats.vercel.app/api?username=A-chelbi&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![A-chelbi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=A-chelbi&theme=vue-dark&hide_border=true)
-![A-chelbi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=A-chelbi&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-
 ---
 
 <p align="center">This <i>README</i> file is generated <b>by Gabot ❤️</b>!</br>Last update on <#today_date><br /></p>
