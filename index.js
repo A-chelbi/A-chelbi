@@ -44,4 +44,5 @@ function main() {
   const newREADME = generateNewREADME();
   updateREADMEFile(newREADME);
 }
+
 main();
